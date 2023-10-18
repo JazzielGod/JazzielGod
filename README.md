@@ -1,6 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Jazziel Briones</a> 👋</h1>
 </div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 <div align="center">
   <img src="https://i.pinimg.com/564x/7a/31/06/7a31068e1bdea7dec0d04d77c0b27df6.jpg">
 </div>

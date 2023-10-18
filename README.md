@@ -6,6 +6,6 @@
 </div>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcMcpyF2c08DARVfJIRUklw?style=social)](https://www.youtube.com/@jazzielGod/videos)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/jazzielgod)
+[![Twitch Status](https://img.shields.io/twitch/status/jazzielgod?style=social)](https://www.twitch.tv/jazzielgod)
 [![GitHub followers](https://img.shields.io/github/followers/jazzielgod?style=social)](https://github.com/JazzielGod)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)

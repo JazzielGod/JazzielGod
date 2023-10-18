@@ -19,7 +19,7 @@
 - ⭐ Full-Stack ⭐ 
 - Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal, Less.
 
-## CURSOS - SIN TERMINAR
+## *PROCESO* DE TERMINAR
 <table>
 <tr>
 <td width="50%">

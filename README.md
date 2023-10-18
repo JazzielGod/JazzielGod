@@ -14,3 +14,31 @@
 
 - ⭐ Full-Stack ⭐ 
 - Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal, Less.
+
+## CURSOS - SIN TERMINAR
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">CURSO PHP</h3>
+<div align="center">
+  <a href=""https://github.com/JazzielGod/CURSOPHP" target="_blank"><img src="https://th.bing.com/th/id/OIP.r0EKGiOfI0F5wgpMQnLeEAHaEK?pid=ImgDet&rs=1" width="400"           alt="Curso PHP basico/itermedio/dificil"></a>
+</div>
+</td>
+
+<td width="50%">
+               <br>
+  <h3 align="center">CUSO BOOTSTRAP</h3>
+  <div align="center">                                       
+  <a href="" target="_blank"><img src="https://th.bing.com/th/id/R.d012e3c7188f09ae03490cc9b4a3154b?rik=0OJ9MkJhJ6uNNg&pid=ImgRaw&r=0" width="400" alt="Curso Bootstrap"></a>
+  <br>
+  <p>
+  <a href="https://github.com/jazzielgod/bootstrap" target="_blank">
+  <img src="https://img.shields.io/badge/FALTA?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+  <a href="https://www.youtube.com/watch?v=phsuWJCweY8&list=PLAzlSdU-KYwXz-a12vbFKI-mKhKzJeTZb&index=30" target="_blank">
+  <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+  </a>
+  </p>
+  </div>                                                             
+  </table>                                                                                 
+</div>

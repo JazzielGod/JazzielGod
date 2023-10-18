@@ -13,5 +13,4 @@
 ## Sobre mi
 
 - ⭐ Full-Stack ⭐ 
-- 📲 Mobile developer
-- Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql.
+- Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal.

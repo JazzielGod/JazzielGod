@@ -13,4 +13,4 @@
 ## Sobre mi
 
 - ⭐ Full-Stack ⭐ 
-- Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal.
+- Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal, Less.

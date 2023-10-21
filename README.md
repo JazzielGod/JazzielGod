@@ -19,7 +19,7 @@
 - ⭐ Full-Stack ⭐ 
 - Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal, Less.
 
-## *PROCESO DE FINALIZACIÓN*
+## *PROCESO DE FINALIZACIÓN* -> Proceso de edición
 <table>
 <tr>
 <td width="50%">

@@ -16,7 +16,7 @@
 
 ## Sobre mi
 
-- ⭐ Full-Stack ⭐ 
+- ⭐ Software Developer Engineering ⭐ 
 - Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal, Less.
 
 ## *PROCESO DE FINALIZACIÓN* -> Proceso de edición

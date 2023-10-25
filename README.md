@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I am <a href="">Jazziel Briones</a> 👋</h1>
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+People+..&hearts;++;+Front-End+Developer+and+Back-End;Active+Learner/Researcher;Love+to+learn+new+stuffs..:D"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+People+..&hearts;++;+Software+Developer+Engineering;Active+Learner/Researcher;Love+to+learn+new+stuffs..:D"></a>
 </p>
 
 <div align="center">

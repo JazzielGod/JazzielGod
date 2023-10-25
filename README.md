@@ -17,7 +17,7 @@
 ## Sobre mi
 
 - ⭐ Software Developer Engineering ⭐ 
-- Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal, Less.
+- Skills: Php, Java, Js, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal, Less, Front-End.
 
 ## *PROCESO DE FINALIZACIÓN* -> Proceso de edición
 <table>

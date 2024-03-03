@@ -17,7 +17,7 @@
 ## Sobre mi
 
 - ⭐ Software Developer Engineering ⭐ 
-- Skills: Php puro, Php-Laravel, Java, Py, Bootstrap, TaiwindCSS, Mysql, React-native-base-normal, Less, Front-End.
+- Portafolio web: https://minimalist-portfolio-json-beryl.vercel.app/
 
 ## *PROCESO DE FINALIZACIÓN* -> Proceso de edición
 <!-- 

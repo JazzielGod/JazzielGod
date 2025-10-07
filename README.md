@@ -20,6 +20,9 @@
 - Portafolio web: https://portafolio-three-plum.vercel.app/
 
 ## *PROCESO DE FINALIZACIÓN* -> Proceso de edición
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Animación de serpiente de cuadrícula de contribución de GitHub" style="max-width: 100%;" _mstalt="1229007" _msthash="1545"></a></p>
+
 <!-- 
 <table>
 <tr>

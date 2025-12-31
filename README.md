@@ -14,8 +14,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/jazzielgod?style=social)](https://github.com/JazzielGod)
  ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield) -->
 
-## Sobre mi
-
 - ⭐ Software Developer Engineering ⭐ 
 - Portafolio web: https://portafolio-three-plum.vercel.app/
 
